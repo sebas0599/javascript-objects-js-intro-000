@@ -4,4 +4,3 @@ function updatePlaylist(playlist, calamaro, flaca) {
   playlist[calamaro] = flaca
   return playlist
 }
-
